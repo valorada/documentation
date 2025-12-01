@@ -23,6 +23,8 @@ This site contains documentation about:
 3. The VALORADA Climate-data Valuation Framework used to assess the value of datasets for climate risk reduction.
 4. Indicator & Dataset Catalog: linked Excel view, static dashboard, and source repositories connecting indicators to CIC narratives and valuation criteria.
 
+![Institutional impacts](pics/CIC/introduction.png)
+
 Use the left navigation to explore each section. A quick overview:
 
 ## 🧬 Climate Impact Chains
