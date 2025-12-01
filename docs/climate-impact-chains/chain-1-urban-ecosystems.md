@@ -6,6 +6,8 @@ title: CIC 1 – Urban Ecosystems Degradation
 
 **Main Risk:** Degradation of urban ecosystems due to urban heat and droughts.
 
+![CIC 1 overview](../pics/CIC/CIC_1/CIC1.png)
+
 ## Key Policy Issues
 * Urban heat island effect and drought degrading urban green spaces.
 * Loss of ecosystem services (temperature control, recreation areas).

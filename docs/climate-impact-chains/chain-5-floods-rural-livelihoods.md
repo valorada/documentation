@@ -6,6 +6,8 @@ title: CIC 5 – Floods & Rural Livelihoods
 
 **Main Risk:** Floods affecting rural livelihoods.
 
+![CIC 5 overview](../pics/CIC/CIC_5/CIC5.png)
+
 ## Key Policy Issues
 * Flooding of agricultural land & rural infrastructure.
 * Risk of dam failure & chemical contamination.

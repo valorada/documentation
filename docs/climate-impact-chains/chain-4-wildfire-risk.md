@@ -6,6 +6,8 @@ title: CIC 4 – Wildfire Risk Escalation
 
 **Main Risk:** Drought and heat increasing the risk of wildfire.
 
+![CIC 4 overview](../pics/CIC/CIC_4/CIC_4.png)
+
 ## Key Policy Issues
 * Elevated wildfire risk (heat, drought, poor forest management).
 * Fuel load from storms & lack of maintenance.
