@@ -15,33 +15,33 @@ title: CIC 2 – Heat & Health in Mobility Systems
 
 ## Sequences
 ### 1. Heat → air pollution → health effects
-<img width="449" height="559" alt="Air pollution and health" src="https://github.com/user-attachments/assets/033c2e66-72c6-4c9f-acf1-b641d25f1457" />
+![Air pollution and health](../pics/CIC/CIC_2/S.2.1.png)
 
 ### 2. Household exposure & indoor heat
-<img width="454" height="637" alt="Indoor heat health" src="https://github.com/user-attachments/assets/b5ae57fc-8e68-40f7-b08b-574d880bb360" />
+![Indoor heat health](../pics/CIC/CIC_2/S.2.2.png)
 
 ### 3. Reduced productivity & occupational health
-<img width="451" height="615" alt="Work productivity heat" src="https://github.com/user-attachments/assets/e95f1dbe-9d70-4798-abe6-181822d341eb" />
+![Work productivity heat](../pics/CIC/CIC_2/S.2.3.png)
 
 ### 4. Mobility accidents & infrastructure stress
-<img width="458" height="589" alt="Accidents and stress" src="https://github.com/user-attachments/assets/9a454331-00a6-408f-9621-9e9c2ebc05a9" />
+![Accidents and stress](../pics/CIC/CIC_2/S.2.4.png)
 
 ### 5. Mobility risks (behavioural & physiological)
-<img width="451" height="481" alt="Mobility risks" src="https://github.com/user-attachments/assets/61f30a33-f7d2-4de7-8854-7c2ec4d4f93c" />
+![Mobility risks](../pics/CIC/CIC_2/S.2.5.png)
 
 ### 6. Reduced water availability → ecosystems & economy
-<img width="448" height="597" alt="Water availability" src="https://github.com/user-attachments/assets/6939dc6c-3e40-4947-a0d4-a9728a16c997" />
+![Water availability](../pics/CIC/CIC_2/S.2.6.png)
 
 ### 7. River ecosystem degradation
-<img width="450" height="490" alt="River ecosystem heat" src="https://github.com/user-attachments/assets/3230c6ec-c629-405b-a13a-a6c69262e2cb" />
+![River ecosystem heat](../pics/CIC/CIC_2/S.2.7.png)
 
 ### 8. Loss of cooling ecosystem services
-<img width="456" height="634" alt="Loss of cooling spaces" src="https://github.com/user-attachments/assets/5001a436-c3fa-484b-9592-cd15c05c0c48" />
+![Loss of cooling spaces](../pics/CIC/CIC_2/S.2.8.png)
 
 ### 9. Population dynamics & forage availability
-<img width="462" height="607" alt="Population dynamics heat" src="https://github.com/user-attachments/assets/c04bc2fa-f5eb-4fec-8716-9044bc78f5de" />
+![Population dynamics heat](../pics/CIC/CIC_2/S.2.9.png)
 
 ### 10. Increased water- & food-borne disease
-<img width="456" height="619" alt="Water and food-borne disease" src="https://github.com/user-attachments/assets/842e8260-8a96-48fd-a93e-8ce2ca6dc01d" />
+![Water and food-borne disease](../pics/CIC/CIC_2/S.2.10.png)
 
 Return to [Overview](index.md).
