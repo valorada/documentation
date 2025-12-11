@@ -20,7 +20,7 @@ This site contains documentation about:
 
 1. Climate Impact Chains (CICs) co-developed with stakeholders in demonstrator regions.
 2. The Copernicus Climate Change Service (C3S) European Climate Data Explorer (ECDE) application and related datasets.
-3. The VALORADA Climate-data Valuation Framework used to assess the value of datasets for climate risk reduction.
+3. The VALORADA Climate-data Valuation Framework used to assess the value of datasets for climate risk reduction. You can download it [here](https://raw.githubusercontent.com/valorada/documentation/refs/heads/main/docs/Valuation_Matrix.xlsx).
 4. Indicator & Dataset Catalog: linked Excel view, static dashboard, and source repositories connecting indicators to CIC narratives and valuation criteria.
 
 ![Institutional impacts](pics/CIC/introduction.png)

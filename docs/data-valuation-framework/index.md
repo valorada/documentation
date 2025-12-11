@@ -14,6 +14,8 @@ The **VALORADA Climate-data Valuation Framework** helps decision‑makers unders
 
 > The goal isn’t to impose a fixed standard, but to foster informed discussion about how valuable data and information are for tackling climate challenges.
 
+You can download the Valuaiton Framework [here](https://raw.githubusercontent.com/valorada/documentation/refs/heads/main/docs/Valuation_Matrix.xlsx).
+
 ## Composition
 **Four Value Dimensions:**
 * Relevance (contribution to knowledge generation)
