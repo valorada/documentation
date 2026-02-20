@@ -42,3 +42,5 @@ nav:
       - ECDE Application: ecde/index.md
   - Frameworks:
       - Data Valuation Framework: data-valuation-framework/index.md
+  - Visualization:
+      - Demonstrator Platforms: visualization/demonstrator-platforms.md
