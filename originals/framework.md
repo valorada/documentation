@@ -7,61 +7,61 @@ Putting a value on data is tricky for two main reasons:
 
 Even so, valuation methods can help estimate how useful data is and make that value easier to compare in different situations. These methods can be based on numbers or descriptions, and they can be either subjective (based on opinion) or objective (based on facts).
 
-The **VALORADA Climate-data Valuation Framework** was created to help decision-makers understand and agree on the importance of existing data for reducing climate risks. 
-It acts as a guide and a mental map, using a set of measures that highlight key ideas identified by climate adaptation experts. 
+The **VALORADA Climate-data Valuation Framework** was created to help decision-makers understand and agree on the importance of existing data for reducing climate risks.
+It acts as a guide and a mental map, using a set of measures that highlight key ideas identified by climate adaptation experts.
 
 **The goal isn’t to create a fixed standard, but to encourage discussion about how valuable data and information are for tackling climate challenges.**
 
 ## Composition
 
-The framework consists of: 
+The framework consists of:
 
-**Four value dimensions:** These represent the overarching categories used to assess the climate value of datasets. They reflect key conceptual areas relevant to climate-risk reduction, such as: 
+**Four value dimensions:** These represent the overarching categories used to assess the climate value of datasets. They reflect key conceptual areas relevant to climate-risk reduction, such as:
 
-* Relevance (defined as contribution to knowledge generation), 
-* Strategic Value (defined as alignment with policy agendas), 
-* Usability (defined in terms of resource efficiency), 
-* Quality (referring to data provenance and accuracy). 
+* Relevance (defined as contribution to knowledge generation),
+* Strategic Value (defined as alignment with policy agendas),
+* Usability (defined in terms of resource efficiency),
+* Quality (referring to data provenance and accuracy).
 
-Each dimension frames a specific lens through which data value is interpreted and evaluated. 
+Each dimension frames a specific lens through which data value is interpreted and evaluated.
 
-**Twelve criterion (3 criterion for each value dimension):** Within each value dimension, criteria specify the evaluative focus and defines a specific attribute of a dataset. Definitions provide conceptual clarity for each criterion. They explain the rationale and scope of what is being measured. This ensures consistency in interpretation across different stakeholders and contexts.  
+**Twelve criterion (3 criterion for each value dimension):** Within each value dimension, criteria specify the evaluative focus and defines a specific attribute of a dataset. Definitions provide conceptual clarity for each criterion. They explain the rationale and scope of what is being measured. This ensures consistency in interpretation across different stakeholders and contexts.
 
 ## Summary of Criteria and Definitions:
 
 **Relevance**
 * 1. Relevance to Climate Risk Understanding: Measures how well the dataset improves understanding of climate risks (vulnerability, exposure, impacts, adaptive capacity) and supports risk assessment.
-* 2. Irreplaceability of the Dataset: Assesses uniqueness—whether the dataset provides critical, non-substitutable insights essential for knowledge generation. 
-* 3. Performance Value: Evaluates versatility—how broadly the dataset applies across multiple climate risk indicators (hazards, vulnerabilities, exposure). 
+* 2. Irreplaceability of the Dataset: Assesses uniqueness—whether the dataset provides critical, non-substitutable insights essential for knowledge generation.
+* 3. Performance Value: Evaluates versatility—how broadly the dataset applies across multiple climate risk indicators (hazards, vulnerabilities, exposure).
 
 **Strategic value**
-* 1. Contribution to Risk Management and Decision-Making: Determines the dataset’s ability to enhance local governments’ capacity for mitigation, adaptation, and resilience planning. 
-* 2. Support for Linking Climate Risk with Municipal Agendas: Examines how effectively the dataset integrates climate risk data into political and strategic municipal goals. 
-* 3. Contribution to Connecting Regional and National Climate Policy: Assesses the dataset’s role in aligning local actions with regional/national climate policies and frameworks. 
+* 1. Contribution to Risk Management and Decision-Making: Determines the dataset’s ability to enhance local governments’ capacity for mitigation, adaptation, and resilience planning.
+* 2. Support for Linking Climate Risk with Municipal Agendas: Examines how effectively the dataset integrates climate risk data into political and strategic municipal goals.
+* 3. Contribution to Connecting Regional and National Climate Policy: Assesses the dataset’s role in aligning local actions with regional/national climate policies and frameworks.
 
 **Usability**
-* 1. Resource Efficiency: Evaluates ease of use without requiring significant additional resources (technology, funding, expertise). 
-* 2. Fit within Existing Administrative and Political Structures: Measures compatibility with current mandates, workflows, and legal frameworks for smooth integration. 
-* 3. Ongoing Maintenance Requirements: Considers effort, cost, and feasibility of keeping the dataset updated over time. 
+* 1. Resource Efficiency: Evaluates ease of use without requiring significant additional resources (technology, funding, expertise).
+* 2. Fit within Existing Administrative and Political Structures: Measures compatibility with current mandates, workflows, and legal frameworks for smooth integration.
+* 3. Ongoing Maintenance Requirements: Considers effort, cost, and feasibility of keeping the dataset updated over time.
 
 **Quality**
-* 1. Provenance of Data: Assesses transparency and documentation of data origins, collection, and curation processes. 
-* 2. Precision and Accuracy: Evaluates how well the dataset reflects real-world conditions with detailed and correct information. 
-* 3. Completeness of Data: Measures whether the dataset includes all necessary information without significant gaps. 
+* 1. Provenance of Data: Assesses transparency and documentation of data origins, collection, and curation processes.
+* 2. Precision and Accuracy: Evaluates how well the dataset reflects real-world conditions with detailed and correct information.
+* 3. Completeness of Data: Measures whether the dataset includes all necessary information without significant gaps.
 
 # VALORADA Climate-data Valuation Framework
 
-## Relevance (1): 
+## Relevance (1):
 
-**Criterion** 
+**Criterion**
 
-Relevance to climate risk understanding	
+Relevance to climate risk understanding
 
 **Definition**
 
-This criterion evaluates how well the dataset contributes to improving the understanding of climate risks, including vulnerabilities, exposure, impacts, and adaptive capacity. It assesses whether the data provides insights necessary for assessing and managing climate-related risks within a given context (e.g., local, regional, or sectoral). 	
+This criterion evaluates how well the dataset contributes to improving the understanding of climate risks, including vulnerabilities, exposure, impacts, and adaptive capacity. It assesses whether the data provides insights necessary for assessing and managing climate-related risks within a given context (e.g., local, regional, or sectoral).
 
-**Indicators** 
+**Indicators**
 
 ***Risk Identification: Does the dataset provide information that is directly relevant to identifying climate risks?***
 * The dataset clearly identifies and quantifies specific background information (e.g., socio-economic vulnerability) to characterise climate risks.
@@ -71,7 +71,7 @@ This criterion evaluates how well the dataset contributes to improving the under
 * The dataset provides ongoing monitoring capacity, allowing for continuous evaluation of climate risks and trends.
 
 **Scoring**
-* High Value (5-4): The dataset strongly contributes to improving the understanding of climate risks 
+* High Value (5-4): The dataset strongly contributes to improving the understanding of climate risks
 * Moderate Value (3-2): The dataset contributes to some aspects of climate risk understanding.
 * Low Value (1-0): The dataset provides minimal or no contribution to understanding climate risks.
 
@@ -79,12 +79,12 @@ This criterion evaluates how well the dataset contributes to improving the under
 
 **Criterion**
 
-Irreplaceability of the Dataset	
+Irreplaceability of the Dataset
 
 
 **Definition**
 
-This criterion evaluates the uniqueness and irreplaceability of the dataset by assessing whether the data can be easily substituted by other sources or datasets, or whether it offers unique, critical insights that cannot be replicated through other means. A highly irreplaceable dataset provides essential information that is either unavailable elsewhere or not reproducible through other existing datasets. Knoweldge generation is highly dependent on this dataset.  This attribute is unique to this dataset and cannot be replaced by other sources of information.	
+This criterion evaluates the uniqueness and irreplaceability of the dataset by assessing whether the data can be easily substituted by other sources or datasets, or whether it offers unique, critical insights that cannot be replicated through other means. A highly irreplaceable dataset provides essential information that is either unavailable elsewhere or not reproducible through other existing datasets. Knoweldge generation is highly dependent on this dataset.  This attribute is unique to this dataset and cannot be replaced by other sources of information.
 
 **Indicators**
 
@@ -109,7 +109,7 @@ Performance value
 
 **Definition**
 
-This criterion assesses how well the dataset can contribute to a broad range of climate risk indicators, evaluating its versatility in providing data for multiple aspects of climate risk assessment (e.g., hazards, vulnerabilities or exposure, etc.). A dataset with high versatility value is one that can be applied across various climate risk indicators.	
+This criterion assesses how well the dataset can contribute to a broad range of climate risk indicators, evaluating its versatility in providing data for multiple aspects of climate risk assessment (e.g., hazards, vulnerabilities or exposure, etc.). A dataset with high versatility value is one that can be applied across various climate risk indicators.
 
 **Indicator**
 
@@ -130,11 +130,11 @@ This criterion assesses how well the dataset can contribute to a broad range of 
 
 **Criterion**
 
-Contribution to Risk Management and Decision-Making Capacity	
+Contribution to Risk Management and Decision-Making Capacity
 
 **Definition**
 
-This criterion evaluates the dataset’s ability to support local governments in guiding risk management activities, including mitigation, adaptation, and resilience-building. It assesses whether the dataset enhances decision-making capacity by providing actionable insights and improving the implementation of climate risk responses.	
+This criterion evaluates the dataset’s ability to support local governments in guiding risk management activities, including mitigation, adaptation, and resilience-building. It assesses whether the dataset enhances decision-making capacity by providing actionable insights and improving the implementation of climate risk responses.
 
 **Indicators**
 
@@ -154,11 +154,11 @@ This criterion evaluates the dataset’s ability to support local governments in
 
 **Criterion**
 
-Data support linking climate risk with municipal political or strategic agendas and goals 	
+Data support linking climate risk with municipal political or strategic agendas and goals
 
 **Definition**
 
-This criterion evaluates how effectively the dataset supports the integration of climate risk data into political decision-making processes and strategic municipal agendas. A high-value dataset should enable local governments to align climate risk assessments with their policy objectives, development plans, and long-term sustainability goals. The dataset must help municipalities in making data-driven decisions that directly influence climate adaptation strategies within the broader political and administrative context.	
+This criterion evaluates how effectively the dataset supports the integration of climate risk data into political decision-making processes and strategic municipal agendas. A high-value dataset should enable local governments to align climate risk assessments with their policy objectives, development plans, and long-term sustainability goals. The dataset must help municipalities in making data-driven decisions that directly influence climate adaptation strategies within the broader political and administrative context.
 
 **Indicators**
 
@@ -180,13 +180,13 @@ This criterion evaluates how effectively the dataset supports the integration of
 
 ## Strategic value	(3)
 
-**Criterion** 
+**Criterion**
 
-Contribution to Connecting Regional and National Climate Policy	
+Contribution to Connecting Regional and National Climate Policy
 
 **Definition**
 
-This criterion evaluates how effectively a dataset supports the alignment and integration of local climate actions with broader regional and national climate policies. High-value datasets should facilitate local governments in contributing to and complying with climate policies, targets, and strategies set at the regional or national level. The dataset should help bridge the local climate risk management activities with higher-level policy frameworks, promoting coherence and consistency across governance scales.	
+This criterion evaluates how effectively a dataset supports the alignment and integration of local climate actions with broader regional and national climate policies. High-value datasets should facilitate local governments in contributing to and complying with climate policies, targets, and strategies set at the regional or national level. The dataset should help bridge the local climate risk management activities with higher-level policy frameworks, promoting coherence and consistency across governance scales.
 
 **Indicators**
 
@@ -210,11 +210,11 @@ This criterion evaluates how effectively a dataset supports the alignment and in
 
 **Criterion**
 
-Resource efficient	
+Resource efficient
 
 **Definition**
 
-This criterion assesses how easily local stakeholders (e.g., municipal officials, planners, decision-makers) can utilize the available datasets to effectively characterize climatic risks without needing additional resources such as advanced technology, financial investment, political buy-in, or specialized skills. 
+This criterion assesses how easily local stakeholders (e.g., municipal officials, planners, decision-makers) can utilize the available datasets to effectively characterize climatic risks without needing additional resources such as advanced technology, financial investment, political buy-in, or specialized skills.
 
 **Indicators**
 
@@ -232,15 +232,15 @@ This criterion assesses how easily local stakeholders (e.g., municipal officials
 * Moderate cost of Use (3-2): The dataset requires some additional resources, training, or adjustments, but these are feasible within the current capacities of local governments.
 * High cost of Use (1-0): The dataset is difficult to access, use, or integrate, requiring significant resources, technological upgrades, or political changes, making it challenging for local stakeholders to adopt.
 
-## Usability (2)	
+## Usability (2)
 
 **Criterion**
 
-Fit within Existing Administrative Competencies, Political Mandates,  Operations and Workflows	
+Fit within Existing Administrative Competencies, Political Mandates,  Operations and Workflows
 
 **Definition**
 
-This criterion evaluates how well a dataset can be integrated into the existing administrative, political, and operational structures of local governments. High-value datasets should align with the competencies, mandates, and workflows already in place, minimizing disruption and ensuring smooth adoption by public sector institutions. This includes compatibility with current legal frameworks, ease of integration into ongoing processes, and utility in supporting political mandates and responsibilities.	
+This criterion evaluates how well a dataset can be integrated into the existing administrative, political, and operational structures of local governments. High-value datasets should align with the competencies, mandates, and workflows already in place, minimizing disruption and ensuring smooth adoption by public sector institutions. This includes compatibility with current legal frameworks, ease of integration into ongoing processes, and utility in supporting political mandates and responsibilities.
 
 **Indicators**
 
@@ -251,19 +251,19 @@ This criterion evaluates how well a dataset can be integrated into the existing 
 * The dataset can be easily incorporated into the ongoing workflows, processes, and operations of local governments
 * The dataset comply with local regulations, policies, and data governance rules (e.g., data privacy, security, and open data policies)
 
-**Scoring** 
+**Scoring**
 * High Fit (5-4): The dataset aligns closely with existing political mandates, administrative competencies, and operational workflows. It requires minimal adjustments and can be easily integrated, while also complying with local regulations and being cost-efficient.
 * Moderate Fit (3-2): The dataset aligns with some aspects of current mandates and workflows but requires moderate adjustments or capacity building. It offers value but may involve additional costs or resources.
 * Low Fit (1-0): The dataset does not align well with existing competencies, mandates, or workflows. It is difficult to integrate and may not comply with local policies or regulations, making its adoption challenging.
 
-## Usability (3)	
+## Usability (3)
 
 **Criterion**
-Ongoing Maintenance Requirements for Data	
+Ongoing Maintenance Requirements for Data
 
 **Definition**
 
-This criterion assesses the level of effort, cost, and frequency required to maintain and update a dataset over time. High-value datasets should require minimal ongoing maintenance or the necessary updates should be affordable and feasible for local governments. The datasets should be regularly updated to allow for continuous monitoring and decision-making related to climate risks, without placing an excessive burden on resources.	
+This criterion assesses the level of effort, cost, and frequency required to maintain and update a dataset over time. High-value datasets should require minimal ongoing maintenance or the necessary updates should be affordable and feasible for local governments. The datasets should be regularly updated to allow for continuous monitoring and decision-making related to climate risks, without placing an excessive burden on resources.
 
 **Indicators**
 ***Update Frequency: How regularly is the dataset updated to ensure it reflects current conditions?***
@@ -280,25 +280,25 @@ This criterion assesses the level of effort, cost, and frequency required to mai
 * Moderate Maintenance (3-2): The dataset requires moderate maintenance efforts or costs, with updates needing some manual intervention or technical support. It can be managed with some adjustments to local government systems and resources.
 * High Maintenance (1-0): The dataset requires significant effort, cost, or external support to maintain and update. It is difficult to integrate into local systems and does not easily support ongoing climate risk monitoring.
 
-## Quality (1)	
+## Quality (1)
 
 **Criterion**
 
-Provenance of Data	
+Provenance of Data
 
 **Definition**
 
-This criterion assesses the ability to trace the origins, creation, collection, and curation process of the dataset. High-value datasets should have clear, well-documented provenance, providing transparency about where the data comes from, how it was collected, and the processes used to curate and maintain it. This ensures data reliability, accountability, and trustworthiness for decision-making related to climate risk.	
+This criterion assesses the ability to trace the origins, creation, collection, and curation process of the dataset. High-value datasets should have clear, well-documented provenance, providing transparency about where the data comes from, how it was collected, and the processes used to curate and maintain it. This ensures data reliability, accountability, and trustworthiness for decision-making related to climate risk.
 
 **Indicators**
 
 ***Data Documentation and Support: Is the dataset well-documented with clear guidelines and support for use by local stakeholders?***
 
-* The origin of the dataset is fully documented, with detailed information about the source, collection process, and any relevant metadata. 
+* The origin of the dataset is fully documented, with detailed information about the source, collection process, and any relevant metadata.
 * The dataset has a well-defined, transparent collection and creation process, with clear methodologies and procedures.
 * The dataset is accompanied by detailed, high-quality metadata that fully describes its content, format, origin, and other relevant attributes.
 * The dataset has been subjected to official standards accepted by the local government.
-* The dataset complies with international standards for geospatial data (for example OGC Standards to ensure interoperability and maximize the value of their geospatial data) 
+* The dataset complies with international standards for geospatial data (for example OGC Standards to ensure interoperability and maximize the value of their geospatial data)
 * The dataset comes with detailed documentation / tutorials / technical support that allow local governments to use it independently.
 
 **Scoring**
@@ -306,15 +306,15 @@ This criterion assesses the ability to trace the origins, creation, collection, 
 * Moderate Provenance (3-2): The dataset’s provenance is generally clear, but some details may be incomplete or lack transparency. It is still useful but may require additional verification or clarification.
 * Low Provenance (1-0): The dataset’s provenance is unclear or poorly documented, leading to concerns about its reliability, accuracy, and appropriateness for decision-making.
 
-## Quality (2)	
+## Quality (2)
 
 **Criterion**
 
-Precision and Accuracy of Data	
+Precision and Accuracy of Data
 
 **Definition**
 
-This criterion assesses the extent to which the dataset is precise (provides exact, detailed, and consistent information) and accurate (correctly reflects the real-world conditions it aims to represent). High-value datasets should demonstrate high levels of both precision and accuracy, ensuring that the data is reliable and useful for informing climate risk assessments and decision-making processes.	
+This criterion assesses the extent to which the dataset is precise (provides exact, detailed, and consistent information) and accurate (correctly reflects the real-world conditions it aims to represent). High-value datasets should demonstrate high levels of both precision and accuracy, ensuring that the data is reliable and useful for informing climate risk assessments and decision-making processes.
 
 **Indicators**
 
@@ -336,11 +336,11 @@ This criterion assesses the extent to which the dataset is precise (provides exa
 
 **Criterion**
 
-Completeness of Data	
+Completeness of Data
 
 **Definition**
 
-This criterion assesses the extent to which the dataset contains all the necessary information without omissions (completeness). High-value datasets should exhibit both high completeness, meaning no significant data is missing that would hinder effective analysis.	
+This criterion assesses the extent to which the dataset contains all the necessary information without omissions (completeness). High-value datasets should exhibit both high completeness, meaning no significant data is missing that would hinder effective analysis.
 
 **Indicators**
 ***Data Completeness: Does the dataset contain all necessary information for comprehensive climate risk assessment?***
